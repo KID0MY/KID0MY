@@ -1,16 +1,21 @@
-## Hi there 👋
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
-<!--
-**KID0MY/KID0MY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World
+### [kid0my@github: ~]$ whoami
+My name is Lucas Triboli Bujes, an game developer student at Ontario Tech University. I love to try new things and learn a little bit of everything.
 
-Here are some ideas to get you started:
+## Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" width="40" height="40" />
+</div>
+
+## Programming Languages:
+<div align="left">
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" />
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" />
+</div>
