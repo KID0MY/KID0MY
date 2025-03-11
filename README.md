@@ -2,7 +2,7 @@
 
 ## Hello World
 ### [kid0my@github: ~]$ whoami
-My name is Lucas Triboli Bujes, an game developer student at Ontario Tech University. I love to try new things and learn a little bit of everything.
+My name is Lucas Bujes, an game developer student at Ontario Tech University. I love to try new things and learn a little bit of everything.
 
 ## Tools:
 
